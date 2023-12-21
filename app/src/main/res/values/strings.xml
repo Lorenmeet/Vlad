@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My =</string>
+    <string name="note">"Заметки"</string>
+    <string name="delete">"Удалить"</string>
+    <string name="addNote">"Добавить заметку"</string>
+    <string name="zag">"Заголовок"</string>
+    <string name="other">"Описание"</string>
+    <string name="save">"Сохранить"</string>
+</resources>
